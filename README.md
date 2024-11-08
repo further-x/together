@@ -1,1 +1,2 @@
 # together
+print("Hello world")
